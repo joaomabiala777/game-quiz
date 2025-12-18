@@ -7,10 +7,10 @@ type Props = {
 export const WelcomeScreen = ({ onStart }: Props) => {
   return (
     <div className="text-center animate-fade-in">
-      <h1 className="text-3xl font-bold mb-4">Bem-vindo ao Quiz de Lógica</h1>
+      <h1 className="text-3xl font-bold mb-4">Bem-vindo ao Quiz!</h1>
 
       <p className="text-slate-300 mb-8">
-        Teste o seu raciocínio e descubra o quão lógico você é.
+        Teste o seu conhecimento e prove a sua sabedoria.
       </p>
 
       <img
